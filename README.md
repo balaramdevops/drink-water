@@ -1,2 +1,2 @@
 # drink-water
-!<img/glass.png>
+![picture](img/glass.jpg)
